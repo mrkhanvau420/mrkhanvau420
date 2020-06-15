@@ -59,7 +59,7 @@ logo = """ -----------------------------•◈•
 \033[1;96mAuthor Mr.KhanVau
 \033[1;96mInstagram Mr.KhanVau420
 \033[1;96mFacebook  Mr.KhanVau420
-\033[1;96mGithub Mr.KhanVau420
+\033[1;96mGithub https://github.com/mrkhan/zero
 \033[1;91m======================================="""
 
 def tik():
@@ -80,10 +80,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mAuthor Mr.KhanVau
+\033[1;96mInstagram Mr.KhanVau420
+\033[1;96mFacebook Mr.KhanVau420
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/mrkhanvau/zero
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
@@ -96,7 +96,7 @@ while (loop == 'true'):
     if (mrkhan == CorrectUsername):
     	 = raw_input("\033[1;96m[☆] \x1b[1;93boss Of Tool \x1b[1;96m>>>> ")
         if (boss == CorrectPassword):
-            print "Logged in successfully as " + username
+            print "Logged in successfully as " + mrkhan
             loop = 'false'
         else:
             print "Wrong Password"
