@@ -83,7 +83,7 @@ print  """\033[1;91m=======================================
 \033[1;96mAuthor Mr.KhanVau
 \033[1;96mInstagram Mr.KhanVau420
 \033[1;96mFacebook Mr.KhanVau420
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/mrkhanvau/zero
+\033[1;96mGithub https://github.com/mrkhanvau/zero
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
