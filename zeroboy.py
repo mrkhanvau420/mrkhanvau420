@@ -59,7 +59,7 @@ logo = """ -----------------------------•◈•
 \033[1;96mAuthor Mr.KhanVau
 \033[1;96mInstagram Mr.KhanVau420
 \033[1;96mFacebook  Mr.KhanVau420
-\033[1;96mGithub https://github.com/mrkhan/zero
+\033[1;96mGithub https://github.com/mrkhanvau/zero
 \033[1;91m======================================="""
 
 def tik():
