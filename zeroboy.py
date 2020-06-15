@@ -93,7 +93,7 @@ CorrectPassword = "boss"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m[☆] \x1b[1;93mrkhan Of Tool \x1b[1;96m>>>> ")
-    if (mrkhan == CorrectUsername):
+    if (mrkhan == boss):
     	 = raw_input("\033[1;96m[☆] \x1b[1;93boss Of Tool \x1b[1;96m>>>> ")
         if (boss == CorrectPassword):
             print "Logged in successfully as " + mrkhan
