@@ -57,9 +57,9 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
 \033[1;96mAuthor Mr.KhanVau
-\033[1;96mInstagram Mr.KhanVau
+\033[1;96mInstagram Mr.KhanVau420
 \033[1;96mFacebook  Mr.KhanVau420
-\033[1;96mGithub 
+\033[1;96mGithub Mr.KhanVau420
 \033[1;91m======================================="""
 
 def tik():
@@ -93,9 +93,9 @@ CorrectPassword = "boss"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m[☆] \x1b[1;93mrkhan Of Tool \x1b[1;96m>>>> ")
-    if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m[☆] \x1b[1;93boss Of Tool \x1b[1;96m>>>> ")
-        if (password == CorrectPassword):
+    if (mrkhan == CorrectUsername):
+    	 = raw_input("\033[1;96m[☆] \x1b[1;93boss Of Tool \x1b[1;96m>>>> ")
+        if (boss == CorrectPassword):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
